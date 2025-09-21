@@ -36,6 +36,3 @@ This project analyzes and predicts air pollution levels in India using machine l
 - `index.html` — Frontend form to input air pollution data.
 - `AIR.csv` — Dataset containing air quality records. *(Provide this file or instructions to obtain it.)*
 - `MODEL.pkl`, `XGB.pkl` — Saved model files after training.
-
-## Installation & Setup
-1. Clone the repository locally:
