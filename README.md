@@ -1,7 +1,7 @@
 
-🌫️ Air Pollution Prediction
+🌫️## Air Pollution Prediction
 This project uses machine learning models to predict air pollution levels based on historical data. It includes preprocessing, model training, and a basic frontend form for input.
-📦 Installation
+📦 ## Installation
 - Clone the repository
 git clone https://github.com/yourusername/AirPollutionPrediction.git
 cd AirPollutionPrediction
